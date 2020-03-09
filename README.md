@@ -8,5 +8,6 @@ MIT License
 
 ### Using
 - [Utf8Json](https://github.com/neuecc/Utf8Json)
+- [ImageSharp](https://github.com/SixLabors/ImageSharp)
 - [郵便番号データダウンロード - 日本郵政グループ](https://www.post.japanpost.jp/zipcode/download.html)
 - [位置参照情報 - 国土交通省](http://nlftp.mlit.go.jp/isj/index.html)
