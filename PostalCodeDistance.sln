@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostalCodeDistance.NETStandard", "PostalCodeDistance.NETStandard\PostalCodeDistance.NETStandard.csproj", "{66BAC78D-3E30-4337-857A-64837E90B66D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PostalCodeDistance.NETStandard", "PostalCodeDistance.NETStandard\PostalCodeDistance.NETStandard.csproj", "{66BAC78D-3E30-4337-857A-64837E90B66D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostalCodeDistance.NETCore", "PostalCodeDistance.NETCore\PostalCodeDistance.NETCore.csproj", "{BB658526-4985-4060-BBA3-C48D48320950}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PostalCodeDistance.NETCore", "PostalCodeDistance.NETCore\PostalCodeDistance.NETCore.csproj", "{BB658526-4985-4060-BBA3-C48D48320950}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{299941D4-771F-44A1-8790-EC4DD1B1A062}"
 	ProjectSection(SolutionItems) = preProject
 		Directory.Build.props = Directory.Build.props
+		LICENSE.txt = LICENSE.txt
+		README.md = README.md
 	EndProjectSection
 EndProject
 Global
